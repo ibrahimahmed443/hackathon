@@ -27,3 +27,9 @@ Web Application:
 
 - Lists health departments 
 - User can search health clinics coordinates
+
+SMS Service:
+=================
+
+- Send an SMS to 8333 to get a list of health care departments.
+- Send an SMS to 8333 with the number assigned to the concerned department to receive the address of the nearest facility.
