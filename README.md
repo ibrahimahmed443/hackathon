@@ -1,4 +1,4 @@
-hackathon
+Hackathon
 =========
 
 Our solution comprises of Android Apps, Web service, Website & SMS. Our main goal is to cover most of the population of Pakistan 
@@ -22,7 +22,7 @@ Android App:
 
 
 
-Web Applications:
+Web Application:
 =================
 
 - Lists health departments 
