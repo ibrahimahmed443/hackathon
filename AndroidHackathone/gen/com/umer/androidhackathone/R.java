@@ -22,6 +22,7 @@ public final class R {
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int sadadoctor=0x7f020001;
     }
     public static final class id {
         public static final int aboutDev=0x7f08001a;
@@ -60,6 +61,7 @@ public final class R {
         public static final int my_list=0x7f030003;
         public static final int rate_doctor=0x7f030004;
         public static final int settings=0x7f030005;
+        public static final int splash_screen=0x7f030006;
     }
     public static final class menu {
         public static final int umer_hackathon_options=0x7f070000;
