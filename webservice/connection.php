@@ -2,24 +2,13 @@
 
 		//Connect to databse...		
 		 
-		/*$host = "localhost";
-		$user = "dreamsso_hack";
-		$password = "hack123";
-		$db = "dreamsso_hackathon";
-		*/
-		
-		$host = "166.62.8.75";
-		$user = "hackathon";
-		$password = "m@Sood5192";
+	
+		$host = "<HOST_ADDRESS>";
+		$user = "<USER>";
+		$password = "<PASSWORD>";
 		$db = "hackathon";
 		
-		
-		/*$host = "localhost";
-		$user = "root";
-		$password = "";
-		$db = "hackathon2";
-		*/
-		
+	
 		//Table Names...
 		$tableHosp = "hospital";
   		$tableDept = "department";
