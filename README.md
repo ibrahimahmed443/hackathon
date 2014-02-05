@@ -1,6 +1,6 @@
 This Problem and its solution was presented in Peshawar Civic Hackathon 31 Jan - 2 Feb, 2014
 
-Problem: Finding nearest Health-care facility
+Problem: Locating nearest Health-care facility based on patient's disease
 
 Hackathon
 =========
